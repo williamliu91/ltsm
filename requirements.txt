@@ -1,4 +1,7 @@
-pandas==1.4.4
-plotly==5.22.0
-streamlit==1.35.0
+matplotlib==3.6.0
+numpy==2.0.1
+pandas==2.2.2
+scikit_learn==1.2.0
+tensorflow==2.17.0
+tensorflow_intel==2.17.0
 yfinance==0.2.40
